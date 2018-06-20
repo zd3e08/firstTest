@@ -8,6 +8,6 @@
 
 [グーグル](http://google.com)
 
-![avater](images/icon.ping)
+![avater](images/icon.jpg)
 
 -----
